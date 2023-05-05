@@ -34,7 +34,7 @@
 [life of pix](https://www.lifeofpix.com/)  
 [magdeleine](https://magdeleine.co/)  
 [morgue file](https://morguefile.com/)  
-[nappy](https://nappy.co/)
+[nappy](https://nappy.co/)  
 [new old stock](https://nos.twnsnd.co/)  
 [openverse](https://openverse.org/)  
 [pexels](https://www.pexels.com/)  
@@ -78,12 +78,12 @@
 
 ### \_\_videos
 
-[coverr.co](https://coverr.co/)
+[coverr.co](https://coverr.co/)  
 [free stock videos](https://free-stock.video/)  
 [life of vids](https://www.lifeofvids.com/)  
 [mixkit](https://mixkit.co/)  
 [videezy](https://www.videezy.com/)  
-[videvo](https://www.videvo.net/stock-video-footage/)
+[videvo](https://www.videvo.net/stock-video-footage/)  
 
 ### \_audios
 
@@ -113,7 +113,7 @@ min--[iconoir](https://iconoir.com/)
 [shitty icons](https://shittyicons.com/#/)  
 [simple icons](https://simpleicons.org/)  
 [system uicons](https://www.systemuicons.com/)  
-[teenyicons](https://teenyicons.com/)
+[teenyicons](https://teenyicons.com/)  
 [the icon of](https://www.theiconof.com/search)  
 [the noun project](https://thenounproject.com/)  
 [vivid js](https://webkul.github.io/vivid/)  
@@ -123,12 +123,12 @@ min--[iconoir](https://iconoir.com/)
 
 [animaticons](https://animaticons.co/)  
 [lordicon](https://lordicon.com)  
-[unicornicons](https://unicornicons.com/)
-[use animations](https://useanimations.com/)
+[unicornicons](https://unicornicons.com/)  
+[use animations](https://useanimations.com/)  
 
 ### \_\_icon\_\_fonts
 
-[react icons](https://react-icons.github.io/react-icons/)
+[react icons](https://react-icons.github.io/react-icons/)  
 
 [devicon](https://devicon.dev/)  
 [font awesome](https://fontawesome.com/)  
@@ -147,20 +147,20 @@ min--[iconoir](https://iconoir.com/)
 ### \_\_favicon
 
 [favicomatic](https://favicomatic.com/)  
-[favicon generator](https://realfavicongenerator.net/)
+[favicon generator](https://realfavicongenerator.net/)  
 
 ### \_\_color
 
 [adobe colors](https://color.adobe.com/trends)  
 [color hunt](https://colorhunt.co/)  
 [colour lovers](https://www.colourlovers.com/)  
-[colors of motion](https://thecolorsofmotion.com/)
+[colors of motion](https://thecolorsofmotion.com/)  
 [happy hues](https://www.happyhues.co/)  
-[poline](https://meodai.github.io/poline/?utm_source=ridd-tweet&utm_medium=ridd&utm_campaign=ridd)
+[poline](https://meodai.github.io/poline/?utm_source=ridd-tweet&utm_medium=ridd&utm_campaign=ridd)  
 
 ### \_\_pattern
 
-[paaatterns](https://products.ls.graphics/paaatterns/)
+[paaatterns](https://products.ls.graphics/paaatterns/)  
 [the pattern library](http://thepatternlibrary.com/)
 
 ### \_\_fonts
@@ -169,7 +169,7 @@ min--[iconoir](https://iconoir.com/)
 [cdn fonts](https://www.cdnfonts.com/)  
 [dafont](https://www.dafont.com/de/)  
 [famous fonts](https://www.fontbolt.com/)  
-[ffonts](https://www.ffonts.net/)
+[ffonts](https://www.ffonts.net/)  
 [font brief](https://www.fontbrief.com/)  
 [font fabric](https://www.fontfabric.com/free-fonts/)  
 [fontgent](https://www.fontget.com/)  
@@ -191,23 +191,23 @@ min--[iconoir](https://iconoir.com/)
 
 #### \_\_general
 
-[css shadow](https://alvarotrigo.com/shadow-gradients/)
+[css shadow](https://alvarotrigo.com/shadow-gradients/)  
 [impressum Generator](https://www.e-recht24.de/muster-disclaimer.html)
 
 #### \_\_logo
 
-[free logo maker](https://www.namecheap.com/logo-maker/)
+[free logo maker](https://www.namecheap.com/logo-maker/)  
 [logomkr](https://logomakr.com/)
 
 ### \_\_color
 
-[adobe colors](https://color.adobe.com/create/color-wheel)  
+[adobe colors](https://color.adobe.com/create/color-wheel)    
 [colormind](http://colormind.io/)  
 [coolors](https://coolors.co/)  
 [gradients](https://colorgradient.dev/)  
-[meshgradient](https://meshgradient.in/)
+[meshgradient](https://meshgradient.in/)  
 [mycolor](https://mycolor.space)  
-[poline](https://meodai.github.io/poline)  
+[poline](https://meodai.github.io/poline)   
 [palettelist](https://www.palettelist.com)  
 [unicolors](https://uicolors.app/create)
 
@@ -217,12 +217,12 @@ min--[iconoir](https://iconoir.com/)
 [heazy](https://app.heazy.studio/)  
 [paaternico](https://patternico.com/)  
 [patternpad](https://patternpad.com/)  
-[trianglify](https://trianglify.io/)
+[trianglify](https://trianglify.io/)  
 
 ### \_\_lorem
 
-[loading](https://loading.io/)
-[lorem ipsum generator](https://ipsum-community.github.io/)
+[loading](https://loading.io/)  
+[lorem ipsum generator](https://ipsum-community.github.io/)  
 
 ---
 
@@ -236,13 +236,13 @@ min--[iconoir](https://iconoir.com/)
 [sketch App Source](https://www.sketchappsources.com/)  
 [UI design daily](https://uidesigndaily.com/)  
 [UI lang](http://uilang.com/)  
-[UIspace](https://uispace.net/)
+[UIspace](https://uispace.net/)  
 
 #### \_\_figma-templates
 
 [free figma templates](https://www.freefigmatemplates.com/)  
 [template freebies](https://www.templatefreebies.com/)  
-[UI Design Italy](https://uidesigndaily.com/)
+[UI Design Italy](https://uidesigndaily.com/)  
 
 ---
 
@@ -250,6 +250,6 @@ min--[iconoir](https://iconoir.com/)
 
 [Font Brief](https://www.fontbrief.com/fontbrief)  
 [Font Joy](https://fontjoy.com/)  
-[Font Pair](https://www.fontpair.co/)
+[Font Pair](https://www.fontpair.co/)  
 [Gold Ratio Typography Calculator](https://grtcalculator.com/)  
-[Modern Fluid Typography Editor](https://modern-fluid-typography.vercel.app/)
+[Modern Fluid Typography Editor](https://modern-fluid-typography.vercel.app/)  
