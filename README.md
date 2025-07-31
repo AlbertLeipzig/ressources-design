@@ -93,7 +93,6 @@
 
 ### icons\_\_basic
 
-[ract icons](https://react-icons.github.io/react-icons/)
 ** [3d icons](https://3dicons.co/)  
 min--[feathericons](https://feathericons.com/)  
 [flaticon](https://www.flaticon.com/)  
