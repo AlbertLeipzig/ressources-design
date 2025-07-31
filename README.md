@@ -145,11 +145,9 @@ min--[iconoir](https://iconoir.com/)
 ### \_\_color
 
 [adobe colors](https://color.adobe.com/trends)  
-[color hunt](https://colorhunt.co/)  
-[colour lovers](https://www.colourlovers.com/)  
+[color hunt](https://colorhunt.co/) 
 [colors of motion](https://thecolorsofmotion.com/)  
-[happy hues](https://www.happyhues.co/)  
-[poline](https://meodai.github.io/poline/?utm_source=ridd-tweet&utm_medium=ridd&utm_campaign=ridd)  
+[happy hues](https://www.happyhues.co/)
 
 ### \_\_pattern
 
@@ -201,13 +199,11 @@ min--[iconoir](https://iconoir.com/)
 [meshgradient](https://meshgradient.in/)  
 [mycolor](https://mycolor.space)  
 [poline](https://meodai.github.io/poline)   
-[palettelist](https://www.palettelist.com)  
 [unicolors](https://uicolors.app/create)
 
 ### \_\_pattern
 
 [haikei](https://app.haikei.app/)  
-[heazy](https://app.heazy.studio/)  
 [paaternico](https://patternico.com/)  
 [patternpad](https://patternpad.com/)  
 [trianglify](https://trianglify.io/)  
@@ -224,12 +220,9 @@ min--[iconoir](https://iconoir.com/)
 #### \_\_UI-Kits
 
 [100 UI Library](https://100dailyui.webflow.io/)  
-[bit dev](https://bit.dev/components/)  
 [free css components](https://medialoot.com/free-themes/css-components/)  
 [sketch App Source](https://www.sketchappsources.com/)  
 [UI design daily](https://uidesigndaily.com/)  
-[UI lang](http://uilang.com/)  
-[UIspace](https://uispace.net/)  
 
 #### \_\_figma-templates
 
