@@ -78,7 +78,6 @@
 
 [coverr.co](https://coverr.co/)  
 [free stock videos](https://free-stock.video/)  
-[life of vids](https://www.lifeofvids.com/)  
 [mixkit](https://mixkit.co/)  
 [videezy](https://www.videezy.com/)  
 [videvo](https://www.videvo.net/stock-video-footage/)  
