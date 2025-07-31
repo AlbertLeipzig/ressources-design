@@ -93,6 +93,7 @@
 
 ### icons\_\_basic
 
+[ract icons](https://react-icons.github.io/react-icons/)
 ** [3d icons](https://3dicons.co/)  
 min--[feathericons](https://feathericons.com/)  
 [flaticon](https://www.flaticon.com/)  
@@ -110,9 +111,7 @@ min--[iconoir](https://iconoir.com/)
 [shitty icons](https://shittyicons.com/#/)  
 [simple icons](https://simpleicons.org/)  
 [system uicons](https://www.systemuicons.com/)  
-[teenyicons](https://teenyicons.com/)  
 [the icon of](https://www.theiconof.com/search)  
-[the noun project](https://thenounproject.com/)  
 [vivid js](https://webkul.github.io/vivid/)  
 [zondicons](https://www.zondicons.com/icons.html)
 
